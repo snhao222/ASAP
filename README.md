@@ -213,8 +213,11 @@ The source code is under MIT license.
 If ASAP is helpful for your research, please consider citing the paper below:
 
 ```
-@article{asap,
-  title={All Sky Autonomous Computing in UAV Swarm},
-# The full citation BibTeX will be updated after publication.
+@article{sun2024all,
+  title={All-Sky Autonomous Computing in UAV Swarm},
+  author={Sun, Hao and Qu, Yuben and Dong, Chao and Dai, Haipeng and Li, Zhenhua and Zhang, Lei and Wu, Qihui and Guo, Song},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2024},
+  publisher={IEEE}
 }
 ```

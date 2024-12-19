@@ -215,8 +215,11 @@ python3 master.py -h
 如果ASAP对你的研究工作有帮助，请考虑引用以下论文：
 
 ```
-@inproceedings{asap,
-  title={All Sky Autonomous Computing in UAV Swarm},
-# 完整引用BibTeX在出版后更新。
+@article{sun2024all,
+  title={All-Sky Autonomous Computing in UAV Swarm},
+  author={Sun, Hao and Qu, Yuben and Dong, Chao and Dai, Haipeng and Li, Zhenhua and Zhang, Lei and Wu, Qihui and Guo, Song},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2024},
+  publisher={IEEE}
 }
 ```
